@@ -1,5 +1,6 @@
-#ifndef _H_NINJECTOR_FILTERBANK
-#define _H_NINJECTOR_FILTERBANK
+#ifndef _H_ZERODM_FILTERBANK
+#define _H_ZERODM_FILTERBANK
+
 #include <fstream>
 #include <string>
 
